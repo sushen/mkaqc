@@ -81,6 +81,7 @@ def scrollUp():
 # TODO : Write RX for phone number
 # TODO : Write RX for প্রাইস কত
 # TODO : Write RX for যোগাযোগ করুন
+# TODO : Write RX for
 
 
 def searchWordUsingXpath():
@@ -139,6 +140,7 @@ def scrollAndSearchUsingXpath():
         grpupPostXpathAria[len(index)-1].click()
         grpupPostXpathAria[len(index)-1].click()
     pageStart()
+
 
 def openGropList():
     with open('groupList.txt') as file:
