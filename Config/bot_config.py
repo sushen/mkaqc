@@ -10,8 +10,12 @@ class BotData:
     # USER_NAME = os.environ.get('facebook_zrliqi_email')
     # PASSWORD = os.environ.get('facebook_zrliqi_pass')
 
-    # My Account
-    USER_NAME = os.environ.get('my_facebook_username')
-    PASSWORD = os.environ.get('my_facebook_password')
+    # # My Account
+    # USER_NAME = os.environ.get('my_facebook_username')
+    # PASSWORD = os.environ.get('my_facebook_password')
+
+    # MKAF Account
+    USER_NAME = os.environ.get('mk_fb_un')
+    PASSWORD = os.environ.get('mk_fb_un')
 
     LOGIN_PAGE_TITLE = "Facebook – log in or sign up"
