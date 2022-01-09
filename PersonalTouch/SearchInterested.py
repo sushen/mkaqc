@@ -78,6 +78,11 @@ def scrollUp():
     scrollUpAction.send_keys(Keys.PAGE_UP)
     scrollUpAction.perform()
 
+# TODO : Write RX for phone number
+# TODO : Write RX for প্রাইস কত
+# TODO : Write RX for যোগাযোগ করুন
+
+
 def searchWordUsingXpath():
     search_interested_word_xpath = "//div[contains(text(),interested)]"
     searchWordhAria = driver.find_elements_by_xpath(search_interested_word_xpath)
