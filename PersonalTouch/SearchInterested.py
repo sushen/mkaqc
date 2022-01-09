@@ -27,6 +27,7 @@ chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
 chrome_options.add_argument("user-data-dir=chrome-data")
 chrome_options.add_argument(f"user-data-dir={scriptDirectory}\\userdata")
 
+# TODO : this Script have to developed like a TV so we can see update everytime.
 
 def driver():
     global driver

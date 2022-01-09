@@ -9,7 +9,7 @@ from Pages.ProfilePage import ProfilePage
 all_page = AllPageBot()
 
 random_message = [
-    "Hi, I saw you comment on a python group.",
+    "হায় , মাছ চাষ বিষয় কথা বলতে চাই ",
     "Hi there! I saw you make a comment on a python group.",
     "Hello, I saw your comment on a python group.",
     "Hello there! I saw your comment on a python group."
